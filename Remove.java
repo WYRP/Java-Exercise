@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * @author Yongru Pan
- * An element removal class for a Singly Linked List and an integer k
+ * An element removal class for a Singly Linked List at index (list.length() - k)
  *
  */
 
