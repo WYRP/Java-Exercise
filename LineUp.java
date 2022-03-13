@@ -3,7 +3,9 @@ import java.util.Scanner;
 
 /**
 This class is created to find the integers that are larger than all the integers to their right.
-and these integers are called the witnesses, according to the question
+for example: 
+input: 1 4 3 5 6 3
+output: 3 6 (order does not matter)
  */
 
 public class LineUp {
